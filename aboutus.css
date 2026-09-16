@@ -1,0 +1,64 @@
+/* our team start */
+
+.our-team-section {
+    padding: 0 0 7rem 0;
+    background-color: #eff2f1;
+}
+
+.our-team-section .container {
+    max-width: 1320px;
+    width: 100%;
+    padding-right: var(--bs-gutter-x, .75rem);
+    padding-left: var(--bs-gutter-x, .75rem);
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.our-team-section .container h2 {
+    color: #2f2f2f;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center !important;
+    width: 100%;
+}
+
+.our-team-section .container .img {
+    margin-bottom: 0 !important;
+    flex: 0 0 auto;
+    width: 25%;
+    display: block;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.our-team-section .container .img h3 a {
+    color: black;
+}
+
+.our-team-section .container .img h3 a:hover {
+    text-decoration: none;
+}
+
+.our-team-section .container .img span {
+    color: #6a6a6a;
+}
+
+.our-team-section .container .img p {
+    color: #6a6a6a;
+}
+
+.our-team-section .container .img a {
+    color: #3a3939;
+    font-weight: 500;
+}
+
+.our-team-section .container .img a:hover {
+    text-decoration: none;
+}
+
+/* our team end  */
